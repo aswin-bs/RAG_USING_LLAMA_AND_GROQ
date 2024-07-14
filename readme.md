@@ -19,8 +19,7 @@ This application demonstrates the use of the ChatGroq API with Llama3-8b-8192 mo
 1. Clone the repository:
 
 ```sh
-git clone <repository_url>
-cd <repository_directory>
+git clone https://github.com/aswin-bs/RAG_USING_LLAMA_AND_GROQ.git
 ```
 
 2. Install the required dependencies:
